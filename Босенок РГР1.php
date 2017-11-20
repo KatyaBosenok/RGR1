@@ -403,7 +403,7 @@ foreach ($data as $navigators){
 rsort($price);
 
     for ($i=0; $i<=2; $i++){
-    $price3[]=$price[$i];
+   	 $price3[]=$price[$i];
     }
 
 
@@ -427,7 +427,7 @@ foreach ($data as $navigators){
 				$priceNavig=$navigators['prices']['amount'];
              			if (in_array( $priceNavig, $price3)){
                     
-					echo "<b class='large_group'>". htmlspecialchars(number_format($navigators['prices']['amount'], 2, ',' , ' '  ))."</b>";
+					echo "<b class='large_group'>". htmlspecialchars(number_format($navigators['prices']['amount'], 2, ',' , ' '  )) . "</b>";
                 		}
 				else {
 					echo htmlspecialchars(number_format($navigators['prices']['amount'], 2, ',' , ' '  ));}
