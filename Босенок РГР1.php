@@ -11,21 +11,21 @@ $data = array (
   array (
     'id' => 7800733,
     'name' => 'eTrex 10',
-    'kind' => 'навигатор',
-    'description' => 'универсальный, ПО: Garmin, 2.20", GPS+ГЛОНАСС, USB',
+    'kind' => 'РЅР°РІРёРіР°С‚РѕСЂ',
+    'description' => 'СѓРЅРёРІРµСЂСЃР°Р»СЊРЅС‹Р№, РџРћ: Garmin, 2.20", GPS+Р“Р›РћРќРђРЎРЎ, USB',
     'categoryId' => 294661,
     'category' => 
     array (
       'id' => 294661,
       'type' => 'GURU',
       'advertisingModel' => 'HYBRID',
-      'name' => 'GPS-навигаторы',
+      'name' => 'GPS-РЅР°РІРёРіР°С‚РѕСЂС‹',
     ),
     'prices' => 
     array (
       'amount' => '8625',
       'curCode' => 'RUR',
-      'curName' => 'руб.',
+      'curName' => 'СЂСѓР±.',
     ),
     'mainPhoto' => 
     array (
@@ -48,21 +48,21 @@ $data = array (
   array (
     'id' => 12659422,
     'name' => 'eTrex 20x',
-    'kind' => 'навигатор',
-    'description' => 'универсальный, ПО: Garmin, 2.20", GPS+ГЛОНАСС, фото, USB, 3788Мб памяти',
+    'kind' => 'РЅР°РІРёРіР°С‚РѕСЂ',
+    'description' => 'СѓРЅРёРІРµСЂСЃР°Р»СЊРЅС‹Р№, РџРћ: Garmin, 2.20", GPS+Р“Р›РћРќРђРЎРЎ, С„РѕС‚Рѕ, USB, 3788РњР± РїР°РјСЏС‚Рё',
     'categoryId' => 294661,
     'category' => 
     array (
       'id' => 294661,
       'type' => 'GURU',
       'advertisingModel' => 'HYBRID',
-      'name' => 'GPS-навигаторы',
+      'name' => 'GPS-РЅР°РІРёРіР°С‚РѕСЂС‹',
     ),
     'prices' => 
     array (
       'amount' => '16140',
       'curCode' => 'RUR',
-      'curName' => 'руб.',
+      'curName' => 'СЂСѓР±.',
     ),
     'mainPhoto' => 
     array (
@@ -85,21 +85,21 @@ $data = array (
   array (
     'id' => 10719288,
     'name' => 'GPSMAP 64ST',
-    'kind' => 'навигатор',
-    'description' => 'универсальный, ПО: Garmin, 2.60", GPS+ГЛОНАСС, Bluetooth, компас, фото, USB, 8192Мб памяти',
+    'kind' => 'РЅР°РІРёРіР°С‚РѕСЂ',
+    'description' => 'СѓРЅРёРІРµСЂСЃР°Р»СЊРЅС‹Р№, РџРћ: Garmin, 2.60", GPS+Р“Р›РћРќРђРЎРЎ, Bluetooth, РєРѕРјРїР°СЃ, С„РѕС‚Рѕ, USB, 8192РњР± РїР°РјСЏС‚Рё',
     'categoryId' => 294661,
     'category' => 
     array (
       'id' => 294661,
       'type' => 'GURU',
       'advertisingModel' => 'HYBRID',
-      'name' => 'GPS-навигаторы',
+      'name' => 'GPS-РЅР°РІРёРіР°С‚РѕСЂС‹',
     ),
     'prices' => 
     array (
       'amount' => '26480',
       'curCode' => 'RUR',
-      'curName' => 'руб.',
+      'curName' => 'СЂСѓР±.',
     ),
     'mainPhoto' => 
     array (
@@ -122,21 +122,21 @@ $data = array (
   array (
     'id' => 10719287,
     'name' => 'GPSMAP 64',
-    'kind' => 'навигатор',
-    'description' => 'универсальный, ПО: Garmin, 2.60", фото, USB, 4096Мб памяти',
+    'kind' => 'РЅР°РІРёРіР°С‚РѕСЂ',
+    'description' => 'СѓРЅРёРІРµСЂСЃР°Р»СЊРЅС‹Р№, РџРћ: Garmin, 2.60", С„РѕС‚Рѕ, USB, 4096РњР± РїР°РјСЏС‚Рё',
     'categoryId' => 294661,
     'category' => 
     array (
       'id' => 294661,
       'type' => 'GURU',
       'advertisingModel' => 'HYBRID',
-      'name' => 'GPS-навигаторы',
+      'name' => 'GPS-РЅР°РІРёРіР°С‚РѕСЂС‹',
     ),
     'prices' => 
     array (
       'amount' => '25790',
       'curCode' => 'RUR',
-      'curName' => 'руб.',
+      'curName' => 'СЂСѓР±.',
     ),
     'mainPhoto' => 
     array (
@@ -159,21 +159,21 @@ $data = array (
   array (
     'id' => 12659483,
     'name' => 'eTrex 30x',
-    'kind' => 'навигатор',
-    'description' => 'универсальный, ПО: Garmin, 2.20", GPS+ГЛОНАСС, компас, фото, USB, 3788Мб памяти',
+    'kind' => 'РЅР°РІРёРіР°С‚РѕСЂ',
+    'description' => 'СѓРЅРёРІРµСЂСЃР°Р»СЊРЅС‹Р№, РџРћ: Garmin, 2.20", GPS+Р“Р›РћРќРђРЎРЎ, РєРѕРјРїР°СЃ, С„РѕС‚Рѕ, USB, 3788РњР± РїР°РјСЏС‚Рё',
     'categoryId' => 294661,
     'category' => 
     array (
       'id' => 294661,
       'type' => 'GURU',
       'advertisingModel' => 'HYBRID',
-      'name' => 'GPS-навигаторы',
+      'name' => 'GPS-РЅР°РІРёРіР°С‚РѕСЂС‹',
     ),
     'prices' => 
     array (
       'amount' => '20290',
       'curCode' => 'RUR',
-      'curName' => 'руб.',
+      'curName' => 'СЂСѓР±.',
     ),
     'mainPhoto' => 
     array (
@@ -195,22 +195,22 @@ $data = array (
   5 => 
   array (
     'id' => 12651438,
-    'name' => 'Astro 320 с ошейником T5',
-    'kind' => 'навигатор',
-    'description' => 'универсальный, ПО: Garmin, 2.60", барометр, компас, 1700Мб памяти',
+    'name' => 'Astro 320 СЃ РѕС€РµР№РЅРёРєРѕРј T5',
+    'kind' => 'РЅР°РІРёРіР°С‚РѕСЂ',
+    'description' => 'СѓРЅРёРІРµСЂСЃР°Р»СЊРЅС‹Р№, РџРћ: Garmin, 2.60", Р±Р°СЂРѕРјРµС‚СЂ, РєРѕРјРїР°СЃ, 1700РњР± РїР°РјСЏС‚Рё',
     'categoryId' => 294661,
     'category' => 
     array (
       'id' => 294661,
       'type' => 'GURU',
       'advertisingModel' => 'HYBRID',
-      'name' => 'GPS-навигаторы',
+      'name' => 'GPS-РЅР°РІРёРіР°С‚РѕСЂС‹',
     ),
     'prices' => 
     array (
       'amount' => '59190',
       'curCode' => 'RUR',
-      'curName' => 'руб.',
+      'curName' => 'СЂСѓР±.',
     ),
     'mainPhoto' => 
     array (
@@ -233,21 +233,21 @@ $data = array (
   array (
     'id' => 11551476,
     'name' => 'SA5 HD+',
-    'kind' => 'навигатор',
-    'description' => 'автомобильный, ПО: Навител, 5", Bluetooth, MP3, фото, видео, USB, 4096Мб памяти',
+    'kind' => 'РЅР°РІРёРіР°С‚РѕСЂ',
+    'description' => 'Р°РІС‚РѕРјРѕР±РёР»СЊРЅС‹Р№, РџРћ: РќР°РІРёС‚РµР», 5", Bluetooth, MP3, С„РѕС‚Рѕ, РІРёРґРµРѕ, USB, 4096РњР± РїР°РјСЏС‚Рё',
     'categoryId' => 294661,
     'category' => 
     array (
       'id' => 294661,
       'type' => 'GURU',
       'advertisingModel' => 'HYBRID',
-      'name' => 'GPS-навигаторы',
+      'name' => 'GPS-РЅР°РІРёРіР°С‚РѕСЂС‹',
     ),
     'prices' => 
     array (
       'amount' => '4839',
       'curCode' => 'RUR',
-      'curName' => 'руб.',
+      'curName' => 'СЂСѓР±.',
     ),
     'mainPhoto' => 
     array (
@@ -270,21 +270,21 @@ $data = array (
   array (
     'id' => 13074427,
     'name' => 'GeoVision 5056',
-    'kind' => 'навигатор',
-    'description' => 'автомобильный, ПО: Навител, 5", MP3, фото, видео, USB, 4096Мб памяти',
+    'kind' => 'РЅР°РІРёРіР°С‚РѕСЂ',
+    'description' => 'Р°РІС‚РѕРјРѕР±РёР»СЊРЅС‹Р№, РџРћ: РќР°РІРёС‚РµР», 5", MP3, С„РѕС‚Рѕ, РІРёРґРµРѕ, USB, 4096РњР± РїР°РјСЏС‚Рё',
     'categoryId' => 294661,
     'category' => 
     array (
       'id' => 294661,
       'type' => 'GURU',
       'advertisingModel' => 'HYBRID',
-      'name' => 'GPS-навигаторы',
+      'name' => 'GPS-РЅР°РІРёРіР°С‚РѕСЂС‹',
     ),
     'prices' => 
     array (
       'amount' => '3990',
       'curCode' => 'RUR',
-      'curName' => 'руб.',
+      'curName' => 'СЂСѓР±.',
     ),
     'mainPhoto' => 
     array (
@@ -307,21 +307,21 @@ $data = array (
   array (
     'id' => 12911340,
     'name' => 'Montana 680',
-    'kind' => 'навигатор',
-    'description' => 'универсальный,  c видеорегистратором, ПО: Garmin, 4", GPS+ГЛОНАСС, барометр, компас, фото, USB, 4096Мб памяти',
+    'kind' => 'РЅР°РІРёРіР°С‚РѕСЂ',
+    'description' => 'СѓРЅРёРІРµСЂСЃР°Р»СЊРЅС‹Р№,  c РІРёРґРµРѕСЂРµРіРёСЃС‚СЂР°С‚РѕСЂРѕРј, РџРћ: Garmin, 4", GPS+Р“Р›РћРќРђРЎРЎ, Р±Р°СЂРѕРјРµС‚СЂ, РєРѕРјРїР°СЃ, С„РѕС‚Рѕ, USB, 4096РњР± РїР°РјСЏС‚Рё',
     'categoryId' => 294661,
     'category' => 
     array (
       'id' => 294661,
       'type' => 'GURU',
       'advertisingModel' => 'HYBRID',
-      'name' => 'GPS-навигаторы',
+      'name' => 'GPS-РЅР°РІРёРіР°С‚РѕСЂС‹',
     ),
     'prices' => 
     array (
       'amount' => '50290',
       'curCode' => 'RUR',
-      'curName' => 'руб.',
+      'curName' => 'СЂСѓР±.',
     ),
     'mainPhoto' => 
     array (
@@ -344,21 +344,21 @@ $data = array (
   array (
     'id' => 8352300,
     'name' => 'SA5',
-    'kind' => 'навигатор',
-    'description' => 'автомобильный, ПО: Навител, 5", MP3, фото, видео, USB, 4096Мб памяти',
+    'kind' => 'РЅР°РІРёРіР°С‚РѕСЂ',
+    'description' => 'Р°РІС‚РѕРјРѕР±РёР»СЊРЅС‹Р№, РџРћ: РќР°РІРёС‚РµР», 5", MP3, С„РѕС‚Рѕ, РІРёРґРµРѕ, USB, 4096РњР± РїР°РјСЏС‚Рё',
     'categoryId' => 294661,
     'category' => 
     array (
       'id' => 294661,
       'type' => 'GURU',
       'advertisingModel' => 'HYBRID',
-      'name' => 'GPS-навигаторы',
+      'name' => 'GPS-РЅР°РІРёРіР°С‚РѕСЂС‹',
     ),
     'prices' => 
     array (
       'amount' => '4290',
       'curCode' => 'RUR',
-      'curName' => 'руб.',
+      'curName' => 'СЂСѓР±.',
       'discount' => '19',
       'base' => '3999',
     ),
@@ -408,7 +408,7 @@ rsort($price);
 
 
 
-echo "<H1 align='center'>Прайс-лист </H1>";
+echo "<H1 align='center'>РџСЂР°Р№СЃ-Р»РёСЃС‚ </H1>";
 foreach ($data as $navigators){
 	$photo=htmlspecialchars($navigators['mainPhoto']['url']);
 	?>
@@ -418,12 +418,12 @@ foreach ($data as $navigators){
 			<p ><img width="120" height="210"  src="<?php echo $photo ?> " /> </p>
 		</td>
 		<td width="70%">
-			<div>Информация о навигаторе: </div>
-			<div>Название: <?=htmlspecialchars($navigators['name'])?> </div>
-			<div>Тип категории: <?=htmlspecialchars($navigators['category']['type'])?> </div>
-			<div >Цена:  
+			<div>РРЅС„РѕСЂРјР°С†РёСЏ Рѕ РЅР°РІРёРіР°С‚РѕСЂРµ: </div>
+			<div>РќР°Р·РІР°РЅРёРµ: <?=htmlspecialchars($navigators['name'])?> </div>
+			<div>РўРёРї РєР°С‚РµРіРѕСЂРёРё: <?=htmlspecialchars($navigators['category']['type'])?> </div>
+			<div >Р¦РµРЅР°:   
 
-				<?php //если цена в массиве, то эхо селектед
+				<?php 
 				$priceNavig=$navigators['prices']['amount'];
              			if (in_array( $priceNavig, $price3)){
                     
@@ -433,7 +433,7 @@ foreach ($data as $navigators){
 					echo htmlspecialchars(number_format($navigators['prices']['amount'], 2, ',' , ' '  ));}
 				 ?><?=htmlspecialchars($navigators['prices']['curName'] )?>  </div>
 			
-			<div> <a href=<?=htmlspecialchars ($navigators['link'])?>> Ссылка на Яндекс Маркет</a> </div>
+			<div> <a href=<?=htmlspecialchars ($navigators['link'])?>> РЎСЃС‹Р»РєР° РЅР° РЇРЅРґРµРєСЃ РњР°СЂРєРµС‚ </a> </div>
 		</td>
 	
 	<tr>
