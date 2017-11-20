@@ -428,9 +428,12 @@ foreach ($data as $navigators){
              			if (in_array( $priceNavig, $price3)){
                     
 					echo "<b class='large_group'>". htmlspecialchars(number_format($navigators['prices']['amount'], 2, ',' , ' '  )) . "</b>";
-                		}
+                			echo " ";
+				}
 				else {
-					echo htmlspecialchars(number_format($navigators['prices']['amount'], 2, ',' , ' '  ));}
+					echo htmlspecialchars(number_format($navigators['prices']['amount'], 2, ',' , ' '  ));
+					echo " ";
+				}
 				 ?><?=htmlspecialchars($navigators['prices']['curName'] )?>  </div>
 			
 			<div> <a href=<?=htmlspecialchars ($navigators['link'])?>> Ссылка на Яндекс Маркет </a> </div>
