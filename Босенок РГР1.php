@@ -401,10 +401,10 @@ foreach ($data as $navigators){
 }
 
 rsort($price);
-
-    for ($i=0; $i<=2; $i++){
-   	 $price3[]=$price[$i];
-    }
+		
+for ($i=0; $i<=2; $i++){
+	$price3[]=$price[$i];
+}
 
 
 
